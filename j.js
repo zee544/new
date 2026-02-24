@@ -1,11 +1,11 @@
 import React from 'react'
 
-function d() {
+function j() {
   return (
     <div>
-      <h1> hi</h1>
+      
     </div>
   )
 }
 
-export default d
+export default j
